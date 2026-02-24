@@ -1,0 +1,4 @@
+Buy milk
+Learn Python
+
+Build a mini project
